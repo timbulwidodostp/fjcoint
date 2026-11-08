@@ -1,3 +1,12 @@
-D 'rcm': Regression control method (RCM) Use rcm With STATA 19
-F rcm.ado
-F rcm.sthlp
+D 'fjcoint': Johansen-Fourier cointegration tests with smooth structural breaks Use fjcoint With STATA 19
+F _fjcoint_cv_johansen.ado
+F _fjcoint_cv_lambda.ado
+F _fjcoint_cv_sbc.ado
+F _fjcoint_cv_trace.ado
+F _fjcoint_fourier.ado
+F _fjcoint_graph.ado
+F _fjcoint_johansen.ado
+F _fjcoint_sbc.ado
+F _fjcoint_scvecm.ado
+F fjcoint.ado
+F fjcoint.sthlp
