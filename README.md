@@ -1,6 +1,8 @@
 # fjcoint
 Johansen-Fourier cointegration tests with smooth structural breaks Use fjcoint With STATA 19
 
+https://www.youtube.com/watch?v=SmSZTYKG_Tg
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
